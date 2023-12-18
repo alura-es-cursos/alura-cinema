@@ -1,0 +1,12 @@
+.capa {
+    width: 100%;
+    height: 276px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.gradient {
+    height: 100%;
+    width: 100%;
+    opacity: .5;
+}
