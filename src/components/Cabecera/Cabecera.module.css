@@ -1,0 +1,27 @@
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 10em;
+    background-color: var(--negro);
+}
+a{ text-decoration: none;}
+
+.logoContainer{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.cabecera img {
+    align-self: start;
+}
+
+.cabecera span {
+    align-self: end;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+    margin-left: 8px;
+    font-size: 1.5rem;
+}

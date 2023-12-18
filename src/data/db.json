@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Como utilizar el Display block, inline, inline-block",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
+        "link": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld"
+    },
+    {
+        "id": 2,
+        "titulo": "Productividad en el trabajo remoto",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
+        "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn"
+    },
+    {
+        "id": 3,
+        "titulo": "¿Cuáles son las principales áreas de la programación?",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Genesis.png",
+        "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO"
+    },
+    {
+        "id": 4,
+        "titulo": "Detección de intruso con IA",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Ale.png",
+        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+    }
+]
+
