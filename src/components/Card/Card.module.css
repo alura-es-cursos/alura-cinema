@@ -1,0 +1,28 @@
+.container {
+    padding: 0 0 1em 0;
+    margin-top: .5em;
+    width: 282px;
+    background-color: var(--gris);
+    display: flex;
+    flex-direction: column;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, .25);
+}
+
+.capa {
+    width: 100%;
+}
+
+.container h2, .favorito {
+    padding: 0 1em;
+}
+
+.favorito {
+    margin-left: 10px;
+    width: 25px;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+    text-align: left;
+}
